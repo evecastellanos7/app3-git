@@ -40,6 +40,6 @@
 		
 		<!--Colocar icono app-->
 		
-		<icon src="res/andriod/mdpi.pgn"/>
+		<icon src="res/andriod/mdpi.png"/>
 		
 </widget>
